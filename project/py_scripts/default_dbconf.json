@@ -1,0 +1,16 @@
+{
+    "target": {
+        "database": "edu",
+        "host": "host",
+        "user": "user",
+        "password": "password",
+        "port": "5432"
+    },
+    "source": {
+        "database": "bank",
+        "host": "host",
+        "user": "user",
+        "password": "password",
+        "port": "5432"
+    }
+}
