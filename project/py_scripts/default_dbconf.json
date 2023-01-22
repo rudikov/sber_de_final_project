@@ -2,14 +2,14 @@
     "target": {
         "database": "edu",
         "host": "host",
-        "user": "user",
+        "user": "de10",
         "password": "password",
         "port": "5432"
     },
     "source": {
         "database": "bank",
         "host": "host",
-        "user": "user",
+        "user": "bank_etl",
         "password": "password",
         "port": "5432"
     }
